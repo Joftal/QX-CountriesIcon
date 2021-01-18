@@ -25,4 +25,4 @@ QX-CountriesIcon项目内所涉及的相关元素、图标仅作为测试和学�
 
 本人不对QX-CountriesIcon项目承担任何责任；
 
-任何人通过任何方式登陆本网站或直接、间接使用QX-CountriesIcon项目相关资源，均应仔细阅读本声明
+任何人通过任何方式登陆本网站或直接、间接使用QX-CountriesIcon项目相关资源，均应仔细阅读本声明！！
