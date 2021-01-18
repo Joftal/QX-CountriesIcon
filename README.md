@@ -13,9 +13,10 @@
 
 China.png
 
-远程修改地址img-url=https://raw.githubusercontent.com/wangzaicake/QX-CountriesIcon/master/CountriesIcon/China.png 请注意图标名称大小写！.
+远程修改地址img-url=https://raw.githubusercontent.com/wangzaicake/QX-CountriesIcon/master/CountriesIcon/China.png 请注意图标名称大小写！
 
 ![Image text](https://s3.ax1x.com/2021/01/18/sy5szD.png)
+
 免责声明
 
 QX-CountriesIcon项目内所涉及的相关元素、图标仅作为测试和学习使用；
