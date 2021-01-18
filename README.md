@@ -1,7 +1,7 @@
 # QX-CountriesIcon
 ```diff
-+ this will be highlighted in green
-- this will be highlighted in red
++ 本项目图标颜色为[粉色系]
+- 本项目图标颜色为[粉色系]
 ```
 项目说明
 
