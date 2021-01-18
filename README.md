@@ -1,4 +1,8 @@
 # QX-CountriesIcon
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
 项目说明
 
 本项目为「QuantumultX」策略组图标（国家），图标素材均来源于网络收集或DIY！有想要的国家图标请留言！
